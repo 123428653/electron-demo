@@ -1,0 +1,19 @@
+{
+  "name": "electron-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./main/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Electron",
+    "demo",
+    "Electron-demo"
+  ],
+  "author": "Qin",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^4.1.4"
+  }
+}
